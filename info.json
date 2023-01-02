@@ -1,1 +1,32 @@
+{"name":"AntidoteDAO",
+"tokenSymbol":" ",
+"DaoOS":"Snapshot",
+"address":"",
+"description":"AntidoteDAO is the first DAO exclusively funding cancer research. 85% of proceeds from our Genesis Collection will initiate our community-run fund. Help democratize cancer research with us!",
+"whitePaperLink":"https://www.antidotedao.org/whitepaper",
+"gallery":[{
+       "name": "Intro",
+       "description": "Intro",
+       "mediaUrl": "https://i.imgur.com/IvltMt4.jpg",
+       "source": "image",
+       "link": "https://antidotedao.org"
+   },  {"name": "Intro",
+       "description": "Intro",
+       "mediaUrl": " https://bafybeie24d56iqkfu2qq6rm6cwqzp5sgu7bo67pm2foj2sknjawmk5smu4.ipfs.nftstorage.link/19.gifhttps://bafybeie24d56iqkfu2qq6rm6cwqzp5sgu7bo67pm2foj2sknjawmk5smu4.ipfs.nftstorage.link/19.gif",        "source": "image",
+       "link": " https://desci.world/nft/antidote-genesis"  }
+],
+"deleted":false,
+"primaryColor":"#1d67cd",
+"twitterHandle":"antidotedao",
+"coingeckoId":"",
+"snapshotId":"",
+"logo":"https://pbs.twimg.com/profile_images/1562059829698387969/zIu_Ow_E_400x400.jpg",
+"telegramLink":"",
+"discordLink":"https://discord.gg/FxpSxa8pgG",
+"website":"https://antidotedao.org",
+"tokenDescription":"",
+"tokenTradeLink":"",
 
+"tags":["NFTs", "Decentralized Funding", "Decentralized biotech" , "Publishing"]
+  
+}
